@@ -21,3 +21,7 @@ For each of the four groups how many people are smokers and how many people are 
 13) Are people outside the healthy BMI range likely to have higher blood pressure? 
 14) Does sex affect blood pressure levels? 
 15) Repeat the same steps for education levels 
+
+Link To Corresponding Dashboard
+
+https://public.tableau.com/app/profile/nicholas.harakh/viz/RiskFactorsOnBloodPressureProject/Dashboard1?publish=yes
