@@ -24,12 +24,17 @@ The risks that will be studied in this project are:
 This knowledge will aid them in forming new policies to lower the amount of people with high blood pressure.
 
 ## Cigarette usage 
+![cig_usage](https://github.com/nharakh00/BloodPressureRiskFactorsProject/assets/45838914/f86cb31a-5097-4cad-ba95-d4d69f8b702c)
+Figure 1
 
 ### Insights 
 
 ### Recommendations 
 
 ## BMI levels 
+![BMIandBPLevels](https://github.com/nharakh00/BloodPressureRiskFactorsProject/assets/45838914/e5fd09fe-0e0d-494c-b1c3-47d49b20b68d)
+Figure 2
+
 
 ### Insights 
 
@@ -37,11 +42,23 @@ This knowledge will aid them in forming new policies to lower the amount of peop
 
 ## Cholesterol
 
+![Cholestrol](https://github.com/nharakh00/BloodPressureRiskFactorsProject/assets/45838914/2cc2f49a-beb6-477c-9a4c-1819b105c2be)
+Figure 3
+
+
 ### Insights 
 
 ### Recommendations 
 
 ## Aging 
+![All](https://github.com/nharakh00/BloodPressureRiskFactorsProject/assets/45838914/50a54594-d364-4b52-983b-f4a0684f8544)
+Figure 4
+![Normal](https://github.com/nharakh00/BloodPressureRiskFactorsProject/assets/45838914/7a25916f-664e-4b61-930d-0fe4a3e191bf)
+Figure 5
+![AtRisk](https://github.com/nharakh00/BloodPressureRiskFactorsProject/assets/45838914/e36ebf15-ac0b-4ac4-b9d0-db2a4add7118)
+Figure 6
+![HighBloodPressure](https://github.com/nharakh00/BloodPressureRiskFactorsProject/assets/45838914/202626ef-6232-4753-b5e3-14119da611e6)
+Figure 7
 
 ### Insights 
 
