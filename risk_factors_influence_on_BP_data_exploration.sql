@@ -272,8 +272,8 @@ WHERE
     cig_usage = 'heavy user';
 
 /*
-Of the people who are heavy ciggarate users exactly 628 have high bp or at risk of high bp, and 312 have no issues.
-We can conclude thavy ciggarate usage can eventually lead to high blood pressure. 
+Of the people who are heavy cigarette users exactly 628 have high bp or at risk of high bp, and 312 have no issues.
+We can conclude thavy cigarette usage can eventually lead to high blood pressure. 
 */
 
 
