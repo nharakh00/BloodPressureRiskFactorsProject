@@ -18,8 +18,6 @@ The risks that will be studied in this project are:
 2) BMI levels
 3) Cholesterol
 4) Aging
-5) Gender
-6) Education levels
 
 This knowledge will aid them in forming new policies to lower the amount of people with high blood pressure.
 
@@ -28,27 +26,29 @@ This knowledge will aid them in forming new policies to lower the amount of peop
 Figure 1
 
 ### Insights 
-
+First, note that all non-users were filtered out just so the focus could be placed on cigarette users. From Figure 1, we can see that there are significantly more cigarette users at risk or having high blood pressure than those with normal blood pressure levels. In addition, one can notice that most heavy cigarette users are at risk of high blood pressure.
 ### Recommendations 
+My recommendation would be to spread awareness of the dangers of cigarette usage. In addition, health practitioners should monitor cigarette users and ensure these patients understand the risks associated with cigarette usage. The patient decides their actions; thus, this is the best that can be done, as one cannot stop people from purchasing cigarettes. 
 
 ## BMI levels 
 ![BMIandBPLevels](https://github.com/nharakh00/BloodPressureRiskFactorsProject/assets/45838914/e5fd09fe-0e0d-494c-b1c3-47d49b20b68d)
 Figure 2
 
-
 ### Insights 
-
+First, note that in this dataset, most people fell into the overweight or normal BMI ranges. More data must be collected to accurately measure the effects of obese, underweight, and severely obese BMI categories. The chart above shows that people in the normal BMI range are more likely to have normal blood pressure than those in the overweight category. Moreover, most of the people who were at risk or had high blood pressure fell into the overweight BMI category. 
 ### Recommendations 
+Based on these results, those with lower body weights tend to be healthier than those with higher body weights. My recommendation would be to promote a healthy lifestyle. I would also recommend implementing programs to make nutritious food and access to physical activity more accessible to people of all backgrounds. As this topic is sensitive, great care must be taken when promoting a healthy lifestyle. 
 
 ## Cholesterol
-
 ![Cholestrol](https://github.com/nharakh00/BloodPressureRiskFactorsProject/assets/45838914/2cc2f49a-beb6-477c-9a4c-1819b105c2be)
 Figure 3
 
 
 ### Insights 
-
+Figure 3 shows that those with borderline high or high cholesterol are at risk or have high blood pressure. Very few people with normal cholesterol levels are at risk or have high blood pressure.  
+ 
 ### Recommendations 
+The data shows that high cholesterol levels and blood pressure are closely related. Therefore, I suggest that health practitioners closely monitor those with borderline high cholesterol and high cholesterol, as these people are highly likely to attain high blood pressure.
 
 ## Aging 
 ![All](https://github.com/nharakh00/BloodPressureRiskFactorsProject/assets/45838914/50a54594-d364-4b52-983b-f4a0684f8544)
@@ -61,20 +61,11 @@ Figure 6
 Figure 7
 
 ### Insights 
+Figure 5 shows that most people with normal blood pressure levels tend to be younger. From Figure 6, it can be observed that there is a significant spike in people at risk of high blood pressure in their early to mid-40s. Figure 7 shows that most people with high blood pressure tend to be older adults.
 
 ### Recommendations 
 
-## Gender 
-
-### Insights 
-
-### Recommendations 
-
-## Education levels  
-
-### Insights 
-
-### Recommendations 
+I recommend that young people be educated on the value of a healthy life, as one of the best ways to prevent high blood pressure is to live a healthy life from an early age. The next and most important thing is to require health practitioners to closely monitor individuals in their early to mid-40s, as this group is the most vulnerable to high blood pressure. If steps are taken while at risk, then the onset of high blood pressure can be prolonged and, in some rare cases, even avoided. Lastly, as older adults are most likely to suffer from high blood pressure, I recommend that support be made available to these individuals and that their health providers prescribe them blood pressure medications. It was revealed in this data set that people suffering from high blood pressure were not on any blood pressure medications. 
 
 ## Data set used in this project 
 https://www.kaggle.com/datasets/mamta1999/cardiovascular-risk-data
