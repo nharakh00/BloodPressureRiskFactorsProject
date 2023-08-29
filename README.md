@@ -37,7 +37,7 @@ Figure 2
 ### Insights 
 First, note that in this dataset, most people fell into the overweight or normal BMI ranges. More data must be collected to accurately measure the effects of obese, underweight, and severely obese BMI categories. The chart above shows that people in the normal BMI range are more likely to have normal blood pressure than those in the overweight category. Moreover, most of the people who were at risk or had high blood pressure fell into the overweight BMI category. 
 ### Recommendations 
-Based on these results, those with lower body weights tend to be healthier than those with higher body weights. My recommendation would be to promote a healthy lifestyle. I would also recommend implementing programs to make nutritious food and access to physical activity more accessible to people of all backgrounds. As the topic of body weight is sensitive, great care must be taken when promoting a healthy lifestyle. 
+Based on these results, those with lower body weights tend to have lower blood pressure levels than those with higher body weights. My recommendation would be to promote a healthy lifestyle. I would also recommend implementing programs to make nutritious food and access to physical activity more accessible to people of all backgrounds. As the topic of body weight is sensitive, great care must be taken when promoting a healthy lifestyle. 
 
 ## Cholesterol
 ![Cholestrol](https://github.com/nharakh00/BloodPressureRiskFactorsProject/assets/45838914/2cc2f49a-beb6-477c-9a4c-1819b105c2be)
