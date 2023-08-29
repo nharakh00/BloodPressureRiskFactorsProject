@@ -45,7 +45,7 @@ Figure 3
 
 
 ### Insights 
-Figure 3 shows that those with borderline high or high cholesterol are at risk or have high blood pressure. Very few people with normal cholesterol levels are at risk or have high blood pressure.  
+Figure 3 shows that those with borderline high or high cholesterol are at risk or have high blood pressure. Very few people with desirable cholesterol levels are at risk or have high blood pressure.  
  
 ### Recommendations 
 The data shows that high cholesterol levels and blood pressure are closely related. Therefore, I suggest that health practitioners closely monitor those with borderline high cholesterol and high cholesterol, as these people are highly likely to attain high blood pressure.
@@ -65,7 +65,7 @@ Figure 5 shows that most people with normal blood pressure levels tend to be you
 
 ### Recommendations 
 
-I recommend that young people be educated on the value of a healthy life, as one of the best ways to prevent high blood pressure is to live a healthy life from an early age. The next and most important thing is to require health practitioners to closely monitor individuals in their early to mid-40s, as this group is the most vulnerable to high blood pressure. If steps are taken while at risk, then the onset of high blood pressure can be prolonged and, in some rare cases, even avoided. Lastly, as older adults are most likely to suffer from high blood pressure, I recommend that support be made available to these individuals and that their health providers prescribe them blood pressure medications. It was revealed in this data set that people suffering from high blood pressure were not on any blood pressure medications. 
+I recommend that young people be educated on the value of a healthy lifestyle, as one of the best ways to prevent high blood pressure is to live a healthy life from an early age. The next and most important thing is to require health practitioners to closely monitor individuals in their early to mid-40s, as this group is the most vulnerable to high blood pressure. If steps are taken while at risk, then the onset of high blood pressure can be prolonged and, in some rare cases, even avoided. Lastly, as older adults are most likely to suffer from high blood pressure, I recommend that support be made available to these individuals and that their health providers prescribe them blood pressure medications. It was revealed in this data set that people suffering from high blood pressure were not on any blood pressure medications, and this needs to be fixed. 
 
 ## Data set used in this project 
 https://www.kaggle.com/datasets/mamta1999/cardiovascular-risk-data
