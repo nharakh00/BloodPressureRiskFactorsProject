@@ -19,7 +19,7 @@ The risks that will be studied in this project are:
 3) Cholesterol
 4) Aging
 
-This knowledge will aid them in forming new policies to lower the amount of people with high blood pressure.
+This knowledge will aid them in forming new policies to protect the general public.
 
 ## Cigarette usage 
 ![cig_usage](https://github.com/nharakh00/BloodPressureRiskFactorsProject/assets/45838914/f86cb31a-5097-4cad-ba95-d4d69f8b702c)
